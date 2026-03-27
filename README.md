@@ -8,8 +8,7 @@
 👨‍💼 I’m currently working at [N26](https://www.linkedin.com/company/n26/).
   
 
-👀 I’m currently learning about implementing TCP/IP web server.
-  
+👀 I’m currently working on [Seriput project](https://github.com/onurkybsi/seriput).
 
 ❓ Ask me about anything related to backend development. I like to share information and listen to new ideas  
   
