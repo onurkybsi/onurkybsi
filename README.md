@@ -1,12 +1,10 @@
-💻 Backend Engineer
+💻 Senior Software Engineer
   
 🎸 Musician  
 <br/>  
 
 
 ## Speed-date  
-👨‍💼 I’m currently working at [N26](https://www.linkedin.com/company/n26/).
-  
 
 👀 I’m currently working on [Seriput project](https://github.com/onurkybsi/seriput).
 
